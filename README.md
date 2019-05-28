@@ -1,5 +1,7 @@
 # BattleShips
 
+To see code -> src/battleships_2/src/battleships_2/pkg0/
+
 This program is to be used on Windows 10, and run with NetBeans IDE 8.2.
 
 All inputs (other than username) uses capital letters, it is recommended to use caps lock through run-time.
